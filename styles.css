@@ -54,3 +54,9 @@ footer {
     height: 37px;
     top: 987px;
 }
+
+.espaciado {
+    background-color: white;
+    width: 300px;
+    height: 150px;
+}
